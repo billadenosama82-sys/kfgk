@@ -1,0 +1,7 @@
+{
+  "name": "PrisonGuard - System Zarządzania Więziennictwem",
+  "description": "Kompleksowy system do zarządzania jednostką penitencjarną, obejmujący kartoteki osadzonych, grafik personelu, raportowanie incydentów oraz moduł medyczny.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
